@@ -1,0 +1,53 @@
+
+.nav {
+	color:#88c8bc;
+}
+.bg-color {
+	background-color: rgb(136, 200, 188);
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	min-height: 8vh;
+}
+ .h2 {
+	font-size: 40px;
+	margin-bottom: 20px;
+	line-height: 1.5;
+	font-weight: 700;
+	color: #000;
+	position: relative;
+	text-transform: uppercase;
+	letter-spacing: 2px; 
+ }
+.btn-primary {
+	background: #616161;
+	color: #fff;
+	border: 1px rounded #616161;
+}
+
+
+.bg-picture1,
+.bg-picture2,
+.bg-picture3 {
+	background-size: cover;
+	background-position: center center;
+	width: 100%;
+	height: 70vh;
+	color: white;
+}
+.a {
+	color: rgb(136, 200, 188);
+}
+
+
+.bg-picture1 {
+	background-image: url('img/pantofi-barbati.jpg');
+}
+
+.bg-picture2 {
+	background-image: url('img/pantofi-dama.jpg');
+}
+
+.bg-picture3 {
+	background-image: url('img/men.jpg');
+}
